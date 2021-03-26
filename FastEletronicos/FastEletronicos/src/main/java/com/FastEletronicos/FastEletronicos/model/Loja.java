@@ -75,6 +75,6 @@ public class Loja {
 	public void setUsuario(List<Usuario> usuario) {
 		this.usuario = usuario;
 	}
-	
 
+	
 }
